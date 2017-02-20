@@ -1,0 +1,28 @@
+body{
+	margin: 0 auto;
+	background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+	font-size: 16px;
+	font-family: 'Open Sans', sans-serif;
+}
+.contenner{
+	width: 550px;
+	margin: auto;
+	font-family: 'Prompt', sans-serif;
+}
+.box-content{
+	margin: 25% auto;
+	background-color: #fff;
+	padding: 5% 20%; 
+	
+}
+.btn{
+	padding: 5px;
+	background-color: #e0e0e0;
+	font-family: 'Prompt', sans-serif;
+	font-size: 10px;
+
+}
+input, select, label,{
+			font-family: 'Prompt', sans-serif;
+			font-size: 16px;
+		}
